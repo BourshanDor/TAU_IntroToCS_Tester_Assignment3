@@ -150,6 +150,4 @@ class TestHm3(unittest.TestCase):
         self.assertEqual(['aaec', 'abca', 'abcd', 'bacd', 'cccb', 'cccc', 'cdab', 'dcba', 'dede', 'eded'], hm3.sort_strings2(lst1, 4))
 
 
-    def test_test(self):
-        hm3.test()
-
+   
