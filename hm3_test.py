@@ -2,7 +2,7 @@ import math
 import unittest
 
 import hm3_315780122 as hm3
-import test
+
 
 class TestHm3(unittest.TestCase):
     def test_bin_to_fraction(self):
